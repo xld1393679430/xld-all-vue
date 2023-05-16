@@ -1,0 +1,5 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+#! 暂时不需要单元测试
+#! pnpm run test
